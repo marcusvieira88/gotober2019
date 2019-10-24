@@ -5,7 +5,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 ### REST beyond the Obvious - API Design for ever Evolving Systems
 
-- API versioning is very expensive, because that, the importance to invest in decouple systems, in the API case, decouple the Front from Backend.
+- API versioning is a hard process, because that, the importance to invest in decouple systems, in the API case, decouple the Front from Backend.
 - Use HATEOAS to achieve this decoupling (business logic and validation)
 - [Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ) 
 
@@ -56,7 +56,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 ### Designing APIs for 150 Million Orders
 
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
-- [EventStorms](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design)[EventStorms](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design)
+- [EventStorms](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design)
 - [BFF](https://samnewman.io/patterns/architectural/bff/)
 - [Design System](https://www.learnstorybook.com/design-systems-for-developers/)
 - [CloudEvents - Standardize messages](https://cloudevents.io/)
@@ -66,7 +66,6 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 - [SAFE](https://www.scaledagileframework.com/)
 - [CAP Theory](https://dzone.com/articles/cap-theorem)
-- If is a new project that in the future will become in microservices, it needs to start as modules and with a separated database.
 
 - [Slides Presentation](files/monolith_decompositon_patterns.pdf)    
 
