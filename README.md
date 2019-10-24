@@ -48,7 +48,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 - Circle Breaker [Histrix](https://github.com/Netflix/Hystrix) and [Resilience4j](https://github.com/resilience4j/resilience4j)
 - Microservice Stateful Retry (State Machine or workflow)
 - [Akka Saga Pattern](https://blog.knoldus.com/microservices-and-the-saga-pattern/)
-- Presentation](https://www.youtube.com/watch?v=JugjRg0-pnE)
+- [Presentation](https://www.youtube.com/watch?v=JugjRg0-pnE)
 - [Article](https://www.infoworld.com/article/3254777/3-common-pitfalls-of-microservices-integrationand-how-to-avoid-them.html)
 
 ### Designing APIs for 150 Million Orders
