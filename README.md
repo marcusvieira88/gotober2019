@@ -5,7 +5,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 ### REST beyond the Obvious - API Design for ever Evolving Systems
 
-- API versioning is very expensive, because that we need to invest in decouple systems, in the API case, decouple the Front from Backend.
+- API versioning is very expensive, because that, the importance to invest in decouple systems, in the API case, decouple the Front from Backend.
 - Use HATEOAS to achieve this decoupling (business logic and validation)
 - [Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ) 
 
