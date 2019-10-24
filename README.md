@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # gotober2019
 Repository used to store the links and notes that I got in the GOTO Berlin 2019 conference.
 
