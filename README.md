@@ -1,7 +1,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # gotober2019
-Repository used to store the links and notes that I got in the GOTO Berlin 2019 conference.
+Repository used to store the links and notes that I got in the GOTO Berlin 2019 conference. [YOUTUBE Channel](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
 
 ### REST beyond the Obvious - API Design for ever Evolving Systems
 
