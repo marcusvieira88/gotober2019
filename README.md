@@ -73,3 +73,17 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 - [Presentation](https://www.youtube.com/watch?v=OLLwG_SN8oo)
 
+### Building Better Products Faster: DevUx is the New DevOps
+
+- [Zeplin app for mockups](https://zeplin.io/)
+- Frontend needs to folow Styleguide for:
+    - Buttons / Inputs 
+    - Colors 
+    - Fonts
+    - Regular Flow (User Flow)
+    - Dashboard Layout (How the components are distribuited in the page)
+    - Common Components
+    - Centralize Style guide variables e.g. [styleint](https://github.com/stylelint/stylelint)
+
+- [Presentation](https://www.youtube.com/watch?v=P21O_6OqpR0&feature=youtu.be&t=27052)
+
