@@ -84,6 +84,32 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
     - Dashboard Layout (How the components are distribuited in the page)
     - Common Components
     - Centralize Style guide variables e.g. [styleint](https://github.com/stylelint/stylelint)
+- [Figma Design](https://www.figma.com/)
+- [LeanUX](https://www.oreilly.com/radar/what-is-lean-ux/)
+- [Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
 
 - [Presentation](https://www.youtube.com/watch?v=P21O_6OqpR0&feature=youtu.be&t=27052)
 
+### Interaction Protocols: It's All About Good Manners
+
+- Use regular expressions to document APIs
+- [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+- APIs should work with binary enconde (less processing to decode)
+- [Presentation](https://www.youtube.com/watch?v=A5ovSBt0-C0)
+
+### Crucial Career Conversations
+
+- [Psychological_safety](https://en.wikipedia.org/wiki/Psychological_safety)
+- Make it safe to fail
+- Remove items from the sprint to give time to developers time to lear something new.
+- [Lead Dev youtube channel](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
+- [Presentation](https://www.youtube.com/watch?v=DTAXQNJLskk)
+
+### Building Resilient Frontend Architecture
+
+- Decoupling > [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) 
+- Contraints for more resilient frontend architecture:
+    - Source code dependencies must point inward
+    - Be conservative about code reuse
+    - Enforce your boundaries
+- [Presentation](https://www.youtube.com/watch?v=HudXYWLBTHw)
