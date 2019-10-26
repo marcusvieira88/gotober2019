@@ -7,7 +7,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 - API versioning is a hard process, because that, the importance to invest in decouple systems, in the API case, decouple the Front from Backend.
 - Use HATEOAS to achieve this decoupling (business logic and validation)
-- [Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ) 
+- <u>[Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ)</u>
 
 ### “Good Enough” Architecture
 
