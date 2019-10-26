@@ -7,7 +7,7 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 
 - API versioning is a hard process, because that, the importance to invest in decouple systems, in the API case, decouple the Front from Backend.
 - Use HATEOAS to achieve this decoupling (business logic and validation)
-- <u>[Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ)</u>
+- [Presentation](https://www.youtube.com/watch?v=mQkf85S9UoQ)
 
 ### “Good Enough” Architecture
 
@@ -32,8 +32,8 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 - Offer actionable feedback
 - Pick the right people
 - Send draft PRs to get feedback early.
-- [KISS principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
 - [Use Stacked PRs](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/)
+- [KISS principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle)
 
 ### Serverless 2.0: Get started with the PLONK Stack
 
@@ -50,23 +50,22 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 - Circle Breaker [Histrix](https://github.com/Netflix/Hystrix) and [Resilience4j](https://github.com/resilience4j/resilience4j)
 - Microservice Stateful Retry (State Machine or workflow)
 - [Akka Saga Pattern](https://blog.knoldus.com/microservices-and-the-saga-pattern/)
-- [Presentation](https://www.youtube.com/watch?v=JugjRg0-pnE)
 - [Article](https://www.infoworld.com/article/3254777/3-common-pitfalls-of-microservices-integrationand-how-to-avoid-them.html)
+- [Presentation_(https://www.youtube.com/watch?v=JugjRg0-pnE)
 
 ### Designing APIs for 150 Million Orders
 
 - [DDD](https://en.wikipedia.org/wiki/Domain-driven_design)
 - [EventStorms](https://techbeacon.com/devops/introduction-event-storming-easy-way-achieve-domain-driven-design)
-- [BFF](https://samnewman.io/patterns/architectural/bff/)
 - [Design System](https://www.learnstorybook.com/design-systems-for-developers/)
 - [CloudEvents - Standardize messages](https://cloudevents.io/)
 - [CloudEvents Demos](https://github.com/cloudevents/spec/blob/master/community/demos.md)
+- [BFF](https://samnewman.io/patterns/architectural/bff/)
 
 ### Monolith Decomposition Patterns
 
 - [SAFE](https://www.scaledagileframework.com/)
 - [CAP Theory](https://dzone.com/articles/cap-theorem)
-
 - [Slides Presentation](files/monolith_decompositon_patterns.pdf)    
 
 ### Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone
@@ -87,7 +86,6 @@ Repository used to store the links and notes that I got in the GOTO Berlin 2019 
 - [Figma Design](https://www.figma.com/)
 - [LeanUX](https://www.oreilly.com/radar/what-is-lean-ux/)
 - [Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
-
 - [Presentation](https://www.youtube.com/watch?v=P21O_6OqpR0&feature=youtu.be&t=27052)
 
 ### Interaction Protocols: It's All About Good Manners
